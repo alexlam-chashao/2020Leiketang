@@ -4,9 +4,9 @@
 
 #ifndef UNTITLED_MATH_H
 #define UNTITLED_MATH_H
+#include <cstdio>
 #include <iostream>
 using namespace std;
-
 /*
 const sum = function(array) {
     // 先设置一个变量 s 用来存数组的和
